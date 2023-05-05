@@ -1,0 +1,9 @@
+Réposes aux questions de la question 6
+
+    a-) La commande git pull récupère les modifications depuis le dépôt distant et les fusionne automatiquement avec votre copie locale. La commande git fetch, quant à elle, récupère les modifications depuis le dépôt distant, mais ne les fusionne pas automatiquement avec votre copie locale.
+
+    b-) Pour annuler les modifications locales dans Git qui n'ont pas été validées, vous pouvez utiliser la commande "git checkout -- <nom_de_fichier>" ou "git checkout ." pour annuler toutes les modifications non validées dans le répertoire de travail actuel. 
+
+    c-) Pour supprimer une branche distante dans Git, vous pouvez utiliser la commande git push avec l'option --delete suivie du nom de la branche que vous souhaitez supprimer.
+
+    d-) Pour voir l'historique des modifications d'un fichier spécifique il faut utiliser la commande git log <nomdufichier>. 
